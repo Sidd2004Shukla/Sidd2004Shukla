@@ -13,7 +13,7 @@
 ### 🎓 Education
 - **Indian Institute of Information Technology Bhagalpur**
   - B.Tech in Computer Science Engineering (Aug 2023 – Present)
-  - CGPA: 8.41/10 (Top 15%) | Peak SGPA: 8.63/10
+  - CGPA: 8.5/10 (Top 15%) | Peak SGPA: 8.9/10
   - Class XII: 92.4% (98th percentile in CS), X: 94.4% (School Topper)
   - _Advanced Coursework_: Data Structures & Algorithms, Computer Architecture, DBMS, OS, Android Dev
 
@@ -35,21 +35,34 @@
 
 ---
 
-### 💻 Competitive Programming & DSA Profiles
+### 💻 Competitive Programming & DSA
 
 <p align="center">
-  <a href="https://leetcode.com/u/codesidd/"><img src="https://img.shields.io/badge/LeetCode-88%2F3647-white?logo=leetcode&logoColor=yellow&style=flat-square" alt="LeetCode"/></a>
-  <a href="https://codolio.com/profile/StarkClare"><img src="https://img.shields.io/badge/Codolio-164%20total%20QA-blueviolet?style=flat-square" alt="Codolio"/></a>
-  <a href="https://www.geeksforgeeks.org/user/siddharthsovfq/"><img src="https://img.shields.io/badge/GeeksforGeeks-56%20solved-29B428?logo=geeksforgeeks&logoColor=white&style=flat-square" alt="GeeksForGeeks"/></a>
-  <a href="https://www.codechef.com/users/debug_pioneer"><img src="https://img.shields.io/badge/CodeChef-1315-lightgrey?logo=codechef&logoColor=white&style=flat-square" alt="CodeChef"/></a>
+  <a href="https://leetcode.com/u/codesidd/">
+    <img src="https://img.shields.io/badge/LeetCode-1649%20(max)-FFA116?logo=leetcode&logoColor=black&style=flat-square"/>
+  </a>
+  <a href="https://codolio.com/profile/StarkClare">
+    <img src="https://img.shields.io/badge/Codolio-303%20Questions-blueviolet?style=flat-square"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/siddharthsovfq/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-56%20Solved-2F8D46?logo=geeksforgeeks&logoColor=white&style=flat-square"/>
+  </a>
+  <a href="https://www.codechef.com/users/debug_pioneer">
+    <img src="https://img.shields.io/badge/CodeChef-1464%20(max)-5B4638?logo=codechef&logoColor=white&style=flat-square"/>
+  </a>
+  <a href="https://codeforces.com/profile/debug_pioneer">
+    <img src="https://img.shields.io/badge/Codeforces-1026%20(max)-1F8ACB?logo=codeforces&logoColor=white&style=flat-square"/>
+  </a>
 </p>
 
-- **LeetCode:** [codesidd](https://leetcode.com/u/codesidd/) — 88 solved, 329 submissions in past year
-- **Codolio:** [StarkClare](https://codolio.com/profile/StarkClare) — 164 questions, 61 active days
-- **GeeksforGeeks:** [siddharthsovfq](https://www.geeksforgeeks.org/user/siddharthsovfq/) — 56 solved, Coding Score: 110
-- **CodeChef:** [debug_pioneer](https://www.codechef.com/users/debug_pioneer) — Highest Rating: 1327
+- **Total Problems Solved:** 303  
+- **Active Coding Days:** 112 | **Max Streak:** 26  
+- **Contests Participated:** 37  
+- **LeetCode:** Rating **1649**, 88+ problems solved  
+- **CodeChef:** Max Rating **1464**  
+- **Codeforces:** Max Rating **1026** (Newbie)  
+- **Strong Areas:** Arrays, Strings, Recursion, DP, Graphs, Competitive Math
 
----
 
 ### 📱 Projects
 
