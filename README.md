@@ -1,137 +1,227 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0595FA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I%E2%80%99m+Siddharth+Shukla;Android+%26+Backend+Developer;Open+Source+%7C+Competitive+Programmer" alt="Typing SVG" />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Siddharth Shukla
 
-<p align="center">
-  <a href="mailto:siddharth.shuklapti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Sidd2004Shukla"><img src="https://img.shields.io/github/followers/Sidd2004Shukla?label=GitHub&style=social" alt="GitHub Followers"/></a>
-  <a href="https://linkedin.com/in/siddharth-shukla-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+IIIT+Bhagalpur;Spring+Boot+Backend+Developer;Building+Scalable+Microservices+%26+Distributed+Systems;LeetCode+Knight+%7C+CodeChef+3%E2%AD%90;Amazon+ML+Summer+School+2026+Selected)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🎓 Education
-- **Indian Institute of Information Technology Bhagalpur**
-  - B.Tech in Computer Science Engineering (Aug 2023 – Present)
-  - CGPA: 8.5/10 (Top 15%) | Peak SGPA: 8.9/10
-  - Class XII: 92.4% (98th percentile in CS), X: 94.4% (School Topper)
-  - _Advanced Coursework_: Data Structures & Algorithms, Computer Architecture, DBMS, OS, Android Dev
-
----
-
-### 🛠️ Skills
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 💻 Competitive Programming & DSA
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://leetcode.com/u/codesidd/">
-    <img src="https://img.shields.io/badge/LeetCode-1649%20(max)-FFA116?logo=leetcode&logoColor=black&style=flat-square"/>
-  </a>
-  <a href="https://codolio.com/profile/StarkClare">
-    <img src="https://img.shields.io/badge/Codolio-303%20Questions-blueviolet?style=flat-square"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/siddharthsovfq/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-56%20Solved-2F8D46?logo=geeksforgeeks&logoColor=white&style=flat-square"/>
-  </a>
-  <a href="https://www.codechef.com/users/debug_pioneer">
-    <img src="https://img.shields.io/badge/CodeChef-1464%20(max)-5B4638?logo=codechef&logoColor=white&style=flat-square"/>
-  </a>
-  <a href="https://codeforces.com/profile/debug_pioneer">
-    <img src="https://img.shields.io/badge/Codeforces-1026%20(max)-1F8ACB?logo=codeforces&logoColor=white&style=flat-square"/>
-  </a>
-</p>
 
-- **Total Problems Solved:** 303  
-- **Active Coding Days:** 112 | **Max Streak:** 26  
-- **Contests Participated:** 37  
-- **LeetCode:** Rating **1649**, 88+ problems solved  
-- **CodeChef:** Max Rating **1464**  
-- **Codeforces:** Max Rating **1026** (Newbie)  
-- **Strong Areas:** Arrays, Strings, Recursion, DP, Graphs, Competitive Math
+<a href="https://linkedin.com/in/siddharth-shukla-">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://portfolio-wheat-ten-sh5o7wxbvo.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-### 📱 Projects
+<a href="mailto:siddharth.shuklapti@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-#### 🚦 **PowerLog - Generator Management System**
-> Mar 2025 - Jun 2025  
-**Kotlin, Jetpack Compose, Firebase, MVVM, Coroutines, FCM**
-- Managed 15+ campus generators; reduced fuel waste by 22%
-- Role-based access for 50+ staff, automated 150+ reports/week
-- FCM alerts reduced downtime by 40%
-
-#### 🎬 **MovieHub - TMDB Client App**
-> Jan 2025 - Mar 2025  
-**Kotlin, Jetpack Compose, TMDB API, Pagination, Caching**
-- 10,000+ movies with filters & pagination; optimized data usage 20%
-
----
-
-### 👑 Leadership & 🧑‍🔬 Research
-
-**Technical Lead — Animation Club, IIIT Bhagalpur (2024–Present):**  
-- Grew club 8→20 members, 25+ animations (avg. 4.5/5), 12 UI/UX workshops
-
-**SAI Research Lead — Hospital Management (2024):**  
-- Bed allocation prediction (92% accuracy), reduced wait times by 35%
-
----
-
-### 🏅 Achievements
-
-- 🏆 **Top 10:** Smart India Hackathon 2024 (from 50+ teams)
-- 👨‍💻 **Code to Win Champion:** 18/20 correct (95% accuracy)
-- 🌟 **Top 5%:** PYC Mentorship (200+ applicants)
-
----
-
-### 📜 Certifications
-
-- Advanced DBMS — Scaler
-- Operating Systems — Scaler
-
----
-
-### 📊 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidd2004Shukla&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidd2004Shukla&theme=radical" alt="GitHub Streak" height="170"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidd2004Shukla&layout=compact&theme=radical" alt="Top Languages" height="120"/>
 </p>
 
 ---
 
-### 📫 Contact Me
+# 💻 Backend Engineer
 
-- 📧 Email: siddharth.shuklapti@gmail.com
-- [LinkedIn](https://linkedin.com/in/siddharth-shukla-)
-- [GitHub](https://github.com/Sidd2004Shukla)
+I'm passionate about designing **high-performance backend systems** capable of handling real-world production workloads.
+
+I enjoy building applications involving:
+
+- ⚡ Spring Boot
+- 🏗️ Microservices
+- 🔐 Secure Authentication
+- 🚀 High Concurrency Systems
+- 🗄️ Database Optimization
+- ☁️ Cloud Native Architecture
+- 📈 Distributed Systems
+- ⚙️ Performance Engineering
 
 ---
 
-<details>
-  <summary>✨ More about me</summary>
-  
-  - Android + backend dev, passionate about CP/DSA
-  - Hackathon lover, open-source contributor
-  - Animation + UI/UX workshop organizer and mentor
-</details>
+# 👨‍💻 About Me
+
+- 🎓 **B.Tech CSE** @ IIIT Bhagalpur (CGPA **8.5**)
+- 💙 Passionate about **Backend Development & System Design**
+- 🚀 Building production-grade Spring Boot applications
+- ⚡ Experienced with scalable REST APIs & Microservices
+- 🏆 **Amazon ML Summer School 2026** Selected
+- 💻 **LeetCode Knight** (1873)
+- ⭐ **CodeChef 3★**
+- 🧩 Solved **700+ DSA Problems**
+- 🏅 **HackVega 2.0 AIR 4** among 47,795 participants
+- 👨‍🏫 Mentored 25+ juniors in DSA & Android
 
 ---
 
-<!-- Pin your best repositories for extra visibility! -->
+# 🚀 Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,python,spring,mysql,postgres,mongodb,redis,firebase,docker,kubernetes,aws,git,github,react,figma,gradle,idea,postman&perline=10)](https://skillicons.dev)
+
+</div>
+
+### Languages
+
+- Java
+- Kotlin
+- C++
+- Python
+- SQL
+
+### Backend
+
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- JWT Authentication
+- REST APIs
+- Microservices
+- System Design
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Firebase Firestore
+- SQLite
+
+### DevOps
+
+- Docker
+- Kubernetes
+- AWS
+- Git
+- GitHub
+- CI/CD
+
+### Tools
+
+- Postman
+- Gradle
+- Android Studio
+- JUnit
+- Mockito
+- Figma
+- Agile/Scrum
+
+---
+
+# 🚀 Featured Backend Projects
+
+## 🔥 High Concurrency Reservation Engine
+
+> Production-ready backend capable of handling flash-sale style booking systems.
+
+### Highlights
+
+- Spring Boot + PostgreSQL + Redis
+- Optimistic Locking using JPA @Version
+- Self-Healing Reservation Cleanup Scheduler
+- Redis Write-through Cache
+- 500 Concurrent Thread Simulation
+- Prevented Double Booking
+- Conflict-safe Reservation Engine
+
+---
+
+## 🏥 DocDash — Healthcare Backend API
+
+Production-grade Healthcare Backend built using Spring Boot.
+
+### Features
+
+- JWT Authentication
+- Role Based Access Control
+- Admin / Doctor / Patient modules
+- Layered Architecture
+- MySQL + Hibernate
+- 10+ REST APIs
+- Optimized relational schema
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Sidd2004Shukla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidd2004Shukla&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 📈 GitHub Streak
+
+<div align="center">
+
+![](https://streak-stats.demolab.com?user=Sidd2004Shukla&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Sidd2004Shukla&theme=tokyonight&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sidd2004Shukla&theme=tokyo-night)](https://github.com/Sidd2004Shukla)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> The snake animation will automatically update every day using GitHub Actions.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sidd2004Shukla/Sidd2004Shukla/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```text
+✔ Spring Boot Backend Development
+✔ Microservices
+✔ Distributed Systems
+✔ High Concurrency Architecture
+✔ PostgreSQL Optimization
+✔ Redis Caching
+✔ Docker & Kubernetes
+✔ System Design
+✔ Backend Performance Engineering
+```
+
+---
+
+# 📫 Let's Build Something Awesome!
+
+If you're interested in Backend Engineering, Scalable Systems, or Java Development, feel free to connect.
+
+⭐ Thanks for visiting my profile!
