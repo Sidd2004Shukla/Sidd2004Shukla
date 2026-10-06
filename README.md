@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+IIIT+Bhagalpur;Spring+Boot+Backend+Developer;Building+Scalable+Microservices+%26+Distributed+Systems;LeetCode+Knight+%7C+CodeChef+3%E2%AD%90;Amazon+ML+Summer+School+2026+Selected)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+IIIT+Bhagalpur;Backend+Intern+%40+Evernorth+Health+Services;Spring+Boot+Backend+Developer;Building+Scalable+Microservices+%26+Distributed+Systems;LeetCode+Knight+%7C+CodeChef+3%E2%AD%90;Amazon+ML+Summer+School+2026+Selected)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,6 +48,7 @@ I enjoy building applications involving:
 # 👨‍💻 About Me
 
 - 🎓 **B.Tech CSE** @ IIIT Bhagalpur (CGPA **8.5**)
+- 💼 **Software Engineering Intern** @ Evernorth Health Services (The Cigna Group), Hyderabad
 - 💙 Passionate about **Backend Development & System Design**
 - 🚀 Building production-grade Spring Boot applications
 - ⚡ Experienced with scalable REST APIs & Microservices
@@ -60,11 +61,24 @@ I enjoy building applications involving:
 
 ---
 
+# 💼 Experience
+
+### Software Engineering Intern — Evernorth Health Services (The Cigna Group)
+📍 Hyderabad, India &nbsp;|&nbsp; 🗓️ July 2026 – Present
+
+- Architected and shipped **10+ REST API endpoints** in **Spring Boot** powering core backend services, with structured request validation and well-documented API contracts
+- Engineered **event-driven pipelines** using **Apache Kafka** producers/consumers for asynchronous, decoupled communication between backend services, with **Redis** caching for high-performance data access
+- Collaborated via code reviews and CI/CD checks to ship production-ready features, containerized with **Docker** on **AWS**
+
+**Tech:** `Java` `Spring Boot` `Apache Kafka` `Redis` `REST APIs` `Microservices` `Docker` `AWS`
+
+---
+
 # 🚀 Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,python,spring,mysql,postgres,mongodb,redis,firebase,docker,kubernetes,aws,git,github,react,figma,gradle,idea,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,python,spring,mysql,postgres,mongodb,redis,kafka,firebase,docker,kubernetes,aws,git,github,react,figma,gradle,idea,postman&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -84,6 +98,7 @@ I enjoy building applications involving:
 - JWT Authentication
 - REST APIs
 - Microservices
+- Apache Kafka
 - System Design
 
 ### Databases
